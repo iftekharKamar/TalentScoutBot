@@ -82,3 +82,10 @@ Then open:
 
 Developed by **Iftekhar Kamar**<br>
 Built with ❤️ using Streamlit, Python, and Mistral via Ollama.
+
+---
+
+
+## Note
+
+Generation of Question and evaluation take lots of time
